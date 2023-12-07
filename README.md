@@ -6,13 +6,15 @@ A single-player Mario Kart recreated with Unreal Engine 5, purely blueprint-base
 
 ### Features
 * Ray tracing for the kart
-* Drive, mini-jump, boost, honk, drift
-* Particle effects
-* Lightings
-* UI made with Widget Blueprints
+* Drive, mini-jump, boost, honk, drift from player input
+* Particle effects (lava dust, boost effect, smoke, etc)
+* Map recreation (changed materials, add lighting, particle effects, collision, etc)
+* UI made with Widget Blueprints (intro scene, in-game, end-game)
+* Cloth simulations (flag)
+* Custom materials (lava, boost panels, etc)
 
 <br />
 
 ### Preview
-
-
+_Click the image and watch the preview!_  
+[<img src="https://github.com/xpsa0421/Project-Mario-Kart/assets/71711432/2d560d8a-c31a-494b-b580-fa1c0db727d5" width = 500>](https://www.youtube.com/watch?v=wLIu8vz_RQE)
